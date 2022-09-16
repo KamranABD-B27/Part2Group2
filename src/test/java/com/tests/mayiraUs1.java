@@ -1,10 +1,7 @@
-package com.utilities;
+package test.java.com.tests;
 
-public class Driver {
+public class mayiraUs1 {
     public static void main(String[] args) {
-
-
-
 
     }
 }
