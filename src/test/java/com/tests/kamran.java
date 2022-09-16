@@ -1,4 +1,4 @@
-package com.tests;
+package test.java.com.tests;
 
 public class kamran {
 }
