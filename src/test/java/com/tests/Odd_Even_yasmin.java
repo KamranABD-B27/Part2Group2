@@ -1,6 +1,6 @@
 package test.java.com.tests;
 
-public class yasminUs3 {
+public class Odd_Even_yasmin {
 
     public static void main(String[] args) {
 
